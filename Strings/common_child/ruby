@@ -1,0 +1,17 @@
+HARRY
+SALLYstring_1 = gets.strip.chomp
+string_2 = gets.strip.chomp
+
+def longest(str1, str2, len1, len2)
+  if len1 < 0 || len2 < 0
+    return 0
+  end
+  if str1[len1] == str2[len2]
+    return 1 + longest(str1, str2, len1 - 1, len2 - 1)
+  else
+    return [longest(str1, str2, len1 - 1, len2),
+            longest(str1, str2, len1, len2 - 1)].max
+  end
+end
+
+puts longest(string_1, string_2, string_1.length - 1, string_2.length - 1)

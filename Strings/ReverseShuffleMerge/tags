@@ -1,0 +1,3 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+check	/Users/rakeshbs/Projects/Ruby/Scripts/hackerrank/ReverseShuffleMerge/rsm.rb	/^def check(letter_hash, count_hash, character, index)$/;"	f	language:Ruby
+check	/Users/rakeshbs/Projects/Ruby/Scripts/hackerrank/Strings/ReverseShuffleMerge/rsm.rb	/^def check(letter_hash, count_hash, character, index)$/;"	f	language:Ruby
