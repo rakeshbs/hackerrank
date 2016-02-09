@@ -1,0 +1,4 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+check_crossed_limit	/Users/rakeshbs/Projects/Ruby/Scripts/hackerrank/DP/GridWalking/grid.rb	/^def check_crossed_limit(x)$/;"	f	language:Ruby
+code_for_hash	/Users/rakeshbs/Projects/Ruby/Scripts/hackerrank/DP/GridWalking/grid.rb	/^def code_for_hash(x, m)$/;"	f	language:Ruby
+walk	/Users/rakeshbs/Projects/Ruby/Scripts/hackerrank/DP/GridWalking/grid.rb	/^def walk(current_position, m)$/;"	f	language:Ruby
